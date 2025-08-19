@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-sentence-transformers
-uvicorn
-ctransformers
-langchain
-python-box
 streamlit
-=======
-sentence-transformers
-uvicorn
-ctransformers
-# ipykernel
-langchain
-python-boxp
-streamlit
->>>>>>> aa261b21 (Initial commit)
+google-genai
+pandas
+numpy
