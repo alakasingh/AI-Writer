@@ -51,10 +51,11 @@ def getGeminiResponse(input_text, length_choice, custom_length, blog_style, tone
         return f"⚠️ Error generating content: {str(e)}"
 
 st.set_page_config(
-    page_title="AI Blog Generator",
+    page_title="AI-Writer",
     page_icon="🖤",
     layout="wide",
     initial_sidebar_state="collapsed"
+
 )
 
 
